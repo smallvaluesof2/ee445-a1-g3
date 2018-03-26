@@ -1,5 +1,5 @@
 # ee445-a1-g3
-D
+
 The circuit diagram for the ECG soo far is here
 ![ecgcircuit](https://user-images.githubusercontent.com/26180784/37901461-2bc4cfc8-30e9-11e8-9ae0-4a892d089591.png)
 
