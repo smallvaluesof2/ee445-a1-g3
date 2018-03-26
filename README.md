@@ -1,7 +1,7 @@
 # ee445-a1-g3
 D
 The circuit diagram for the ECG soo far is here
-![ecgcircuit](https://user-images.githubusercontent.com/26180784/37901038-f5ca83be-30e7-11e8-82ab-548ec7d0672a.png)
+![ecgcircuit](https://user-images.githubusercontent.com/26180784/37901461-2bc4cfc8-30e9-11e8-9ae0-4a892d089591.png)
 
 Changes I suggest we can try after testing on the Oscilliscope are to the High pass and low pass filter.
 Currently the High Pass filter is allowing frequencies above 0.03Hz. 
